@@ -1,4 +1,4 @@
-name: Are your ears awake
+name: Are Your Ears Awake
 favicon: null
 layout_spectrum: 0.5899180979467928
 typography_spectrum: 0.45007095858454704
@@ -16,9 +16,14 @@ opengraph:
   type: null
   appId: null
 color:
-  brandColors: []
-  brandStrength: 0.4057731016073376
-  lightness: 0.3593768433202058
+  brandColors:
+    - '#08101a'
+    - '#e4f7fe'
+    - '#315b73'
+    - '#6cc4f4'
+    - '#afbec5'
+  brandStrength: 0.5
+  lightness: 0.375
   saturation: 0.513435770990327
   rhythmicContrast: 0.768157423241064
 purpose: []
